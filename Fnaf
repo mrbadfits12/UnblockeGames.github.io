@@ -1,0 +1,25 @@
+<html>
+  <title> Five Nights at Freddy's </title>
+<body>
+<h1 id="title"> Five Nights at Freddy's </h1>
+<img src="http://www.fnafgame.com/wp-content/uploads/2015/07/Five-Nights-At-Freddys-Free-Download.jpg">
+<p id="wiki1" > Five Nights at Freddy's is an indie point-and-click survival horror video game created by Scott Cawthon. The game centers on a fictional pizza restaurant called "Freddy Fazbear's Pizza", where the player must act as a night security guard, defending themselves from the malfunctioning animatronic animal characters by tracking their movement through the facility using security cameras. </p>
+<h1 id="thechar"> The Characters </h1>
+<img src="https://s32.postimg.org/efe714h85/All_Fnaf1_Animatronics.png" >
+<p id="beartext"> Freddy Fazbear (originally known as Freddybear, as seen in the Kickstarter) is one of four main antagonists of Five Nights at Freddy's, who later appear as variations in the succeeding games. He is an animatronic bear who, like the other animatronics in the game, is left in a "free-roaming mode" at night, during which he wanders around Freddy Fazbear's Pizza, along with the other animatronics, until 6 AM, to prevent their servos from locking up. </p> 
+<p id="chickentext"> Chica is one of the four main antagonists in Five Nights at Freddy's. Chica is an animatronic children's entertainer housed at Freddy Fazbear's Pizza, along with Freddy Fazbear and Bonnie. She is the backup singer standing on the right-side in Freddy's band. At midnight, she is left in a "free roaming mode" until 6 AM, to prevent her servos from locking up. </p>
+<p id="foxtext">
+  Foxy is one of the four main antagonists in Five Nights at Freddy's. His starting location is behind the curtain in Pirate Cove, from which he will emerge and sprint towards The Office to attack the night guard on any given night if he is not monitored enough or monitored too much through the security camera.
+</p>
+<p id="bunnytext">
+  Bonnie is one of the four main antagonists in Five Nights at Freddy's. Bonnie is an animatronic children's entertainer housed at Freddy Fazbear's Pizza, along with Freddy Fazbear and Chica. He is the guitarist in Freddy's band, positioned at the left side. At midnight, he is left in a "free-roaming mode" until 6 AM, to prevent his servos from locking up.
+  </p>
+  <h1 id="jumptitle"> Jumpscares!</h1>
+  <img src="http://vignette2.wikia.nocookie.net/freddy-fazbears-pizza/images/a/a4/Output_swP4iS.gif/revision/latest?cb=20141119205104">
+  <img src="http://vignette3.wikia.nocookie.net/freddy-fazbears-pizza/images/3/31/Bonnie_blarg.gif/revision/latest?cb=20140826061016">
+  <img src="http://vignette1.wikia.nocookie.net/freddy-fazbears-pizza/images/8/8a/Chica_blarg.gif/revision/latest?cb=20140826052449">
+  <img src="http://vignette3.wikia.nocookie.net/freddy-fazbears-pizza/images/1/17/Output_b2VZwk.gif/revision/latest?cb=20140830024524">
+  <img src="http://vignette1.wikia.nocookie.net/freddy-fazbears-pizza/images/c/cb/Output_o2BAmu.gif/revision/latest?cb=20140829233611">
+  </body>
+  </html>
+
